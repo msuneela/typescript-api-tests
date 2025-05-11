@@ -5,7 +5,7 @@
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/msuneela/typescript-api-tests/tree/main
+git clone https://github.com/msuneela/typescript-api-tests.git
 cd typescript-api-tests
 ```
 
