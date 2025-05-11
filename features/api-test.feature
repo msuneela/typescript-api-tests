@@ -1,6 +1,6 @@
 Feature: Schedule channel API Tests
 
-  Scenario: Verify that te API has status 200 and completes within 1000ms
+  Scenario: Verify that the API has status 200 and completes within 1000ms
     Given I send a GET request to "/api/RMSTest/ibltest"
     Then the response status should be 200
     And the response time should be less than 1000ms
